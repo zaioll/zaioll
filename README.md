@@ -1,7 +1,7 @@
 # Hi there
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/zaioll)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&style=flat-square&logo=gitlab&link=https://gitlab.com/zaioll)](https://gitlab.com/zaioll)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square)](https://www.linkedin.com/in/zaioll)
+[![GitLab](https://img.shields.io/static/v1?label=GitLab&message=%20&color=blue&logo=gitlab&style=flat-square)](https://www.linkedin.com/in/zaioll)
 <!--
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat-square&logo=leetCode&link=https://github.com/zaioll)](https://github.com/zaioll)
 -->
@@ -32,12 +32,12 @@ The most part of my code work is in [gitlab](https://gitlab.com/zaioll).
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+[![Quasar](https://img.shields.io/static/v1?label=&message=%20&color=blue&style=flat-square&logo=quasar&logoColor=white&link=https://quasar.dev)](https://quasar.dev)
+[![RabbitMQ](https://img.shields.io/badge/-02569B?style=flat-square&logo=rabbitMq&link=https://www.rabbitmq.com)](https://www.rabbitmq.com)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-[![RabbitMQ](https://img.shields.io/badge/-02569B?style=flat-square&logo=rabbitMq&link=https://www.rabbitmq.com)](https://www.rabbitmq.com)
 [![API Platform](https://img.shields.io/badge/-API_Platform-02569B?style=flat-square&link=https://api-platform.com)](https://api-platform.com)
-
 
 ### Future
 
