@@ -43,13 +43,13 @@ The most part of my code work is in [gitlab](https://gitlab.com/zaioll).
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
+<!--
 ## Time track and stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=zaioll&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Zaioll GitHub Stats" />
 
 <code><img height="480" src="https://wakatime.com/share/@zaioll/eca2bcef-3738-4787-9f7f-40f32b2cbeb1.svg"></code>
-
+-->
 
 <!--
 **zaioll/zaioll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
