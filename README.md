@@ -1,7 +1,7 @@
 # Hi there
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square)](https://www.linkedin.com/in/zaioll)
-[![GitLab](https://img.shields.io/static/v1?label=GitLab&message=%20&color=blue&logo=gitlab&style=flat-square)](https://www.linkedin.com/in/zaioll)
+[![GitLab](https://img.shields.io/static/v1?label=GitLab&message=%20&color=blue&logo=gitlab&style=flat-square)](https://gitlab.com/zaioll)
 <!--
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat-square&logo=leetCode&link=https://github.com/zaioll)](https://github.com/zaioll)
 -->
