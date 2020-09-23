@@ -7,7 +7,7 @@
 -->
 
 My name is Láyro Chrystofer from Brazil and I'm a full stack developer.
-The most part of my code work is in [gitlab](https://gitlab.com/zaioll).
+The most part of my code work is at [gitlab](https://gitlab.com/zaioll).
 
 ## Languages and technologies I use daily
 
