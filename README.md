@@ -6,7 +6,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat-square&logo=leetCode&link=https://github.com/zaioll)](https://github.com/zaioll)
 -->
 
-My name is Láyro Chrystofer from Brazil and I'm a full stack developer.
+My name is Láyro Chrystofer, I'm live in Brazil and I'm a full stack developer.
 The most part of my code work is at [gitlab](https://gitlab.com/zaioll).
 
 ## Languages and technologies I use daily
